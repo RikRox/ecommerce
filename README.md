@@ -16,8 +16,6 @@ This project allows the manager of a retail company to have a backend for their 
   - [Usage Information](#usage-information)
   - [Licensing](#licensing)
   - [Questions](#questions)
-  
-  ## Installation Instructions
 To install this application do an NPM init command and then a NPM i command to install all dependencies.
   
   ## Usage Information
@@ -28,7 +26,7 @@ The intended use for this project is to be connected to a frontend application, 
   ## Questions
   To see my github repository please visit my [Github repository](https://github.com/RikRox/ecommerce)
 
-  Video Link: 
+  Video Link: https://drive.google.com/file/d/1WyIvB1BqCxc_u9BlWHEp7nkmxoSatsA_/view
   
   To contact me for more questions feel free to email me at: Rikaylaj@gmail.com
   
